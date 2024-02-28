@@ -9,8 +9,9 @@ for i in list:
     print(i)
 
 y = "*"
-z = y*a
 a = 1
+z = y*a
+
 while a<10:
     print(z)
     a+=1
