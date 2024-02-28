@@ -8,3 +8,10 @@ list = [3,4,2,9,5,8,7]
 for i in list:
     print(i)
 
+y = "*"
+z = y*a
+a = 1
+while a<10:
+    print(z)
+    a+=1
+
