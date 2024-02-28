@@ -7,4 +7,5 @@ while x <5:
 list = [3,4,2,9,5,8,7]
 for i in list:
     print(i)
+Print("Bye")
 
